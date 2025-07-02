@@ -1,12 +1,12 @@
 {
-  "name": "my-app",
+  "name": "react-sample",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint my-app",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
